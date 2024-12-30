@@ -602,6 +602,7 @@
 
 .project .project-carousel .project-item .project-content {
     position: relative;
+    margin-top:40px;
     width: 75%;
     height: 100%;
     bottom: 50%; 
